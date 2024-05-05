@@ -1,3 +1,3 @@
 # Powerful command lines applications with go
 
-Next: Interacting with your users
+- Next: Interacting with your users
